@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
-<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#dfeefa"/><stop offset="1" stop-color="#f7fbff"/></linearGradient></defs>
-<rect width="1600" height="900" fill="url(#g)"/><g fill="none" stroke="#9db6cc" stroke-width="4" opacity=".55"><rect x="250" y="180" width="1100" height="520" rx="28"/><path d="M340 620l230-250 180 190 160-160 350 220"/><circle cx="690" cy="330" r="62"/></g>
-<text x="800" y="790" text-anchor="middle" font-family="Arial" font-size="42" fill="#71879d">ADD HERO / STUDY ENVIRONMENT PHOTO HERE</text></svg>
